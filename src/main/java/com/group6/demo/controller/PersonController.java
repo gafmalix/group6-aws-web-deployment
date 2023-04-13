@@ -8,6 +8,6 @@ public class PersonController {
 
 	@RequestMapping("/greetGroupName")
 	public String greetGroupName() {
-		return "Hello Group 6";
+		return "Hello Group 6 Members";
 	}
 }
